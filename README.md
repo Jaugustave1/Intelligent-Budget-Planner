@@ -1,5 +1,16 @@
 # Intelligent Budget Planner (AI)
 
+## Screenshots
+
+### Budget Allocation Pie Chart
+![Budget Allocation](pie_chart.png)
+
+### Rational-Agent Decision Tree
+![Decision Tree](decision_tree.png)
+
+### Example Budget Recommendation Output
+![Budget Output](budget_output.png)
+
 ## Overview
 
 The Intelligent Budget Planner is a Python-based financial planning application that helps users analyze income, expenses, savings goals, and discretionary spending.
