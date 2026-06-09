@@ -7,7 +7,7 @@ The Intelligent Budget Planner is a Python-based financial planning application 
 ## Skills Demonstrated
 
 - Python Programming
-- Decision Logic
+- AI Rational-Agent Decision Logic
 - Financial Data Analysis
 - Problem Solving
 - Budget Optimization
